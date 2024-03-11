@@ -1,2 +1,2 @@
-# flowerClassifier
-A learning project.
+# Flower Classifier
+Another one of my initial learning projects. The goal is simply to classify flower images to their respective classes. Unlike the Dog Classifier I worked on, this project dives deeper into the inner workings of a deep learning project such as feed forward and backpropagation python implementation. Transfer learning was also used here to modify a pretrained VGG11 network, by altering the fully connected layer while maintaining the pretrained weights of the convolutional layers. The result is an accuracy of 90-95% depending on the desired training time and epoch number. This project helped me take a deeper step into Deep Learning both theoretically and practically, paving the way to more involved projects in the future. 
